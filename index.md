@@ -19,15 +19,25 @@ title: DSA Preparation for MAANG Companies
 ### 💻 Practice Code
 
 #### ⭐ Recommended Starting Point
-- [**LeetCode Top 150 - Fully Annotated**](LEETCODE_TOP_150_ANNOTATED.swift) 
-  - 13 problems with complete LeetCode numbers, links, test cases
-  - Perfect for beginners
-  - All examples explained
+
+**📱 Web Version (Read in Browser - Won't Download!):**
+- [**LeetCode Top 150 - Web Version**](problems/leetcode-top-150) 
+  - ✅ Displays perfectly in browser
+  - ✅ Mobile-friendly, easy copy-paste
+  - ✅ 3 problems fully formatted
+
+**📥 Swift Files (Download & Run in Xcode):**
+- [LeetCode Top 150 - Swift File](LEETCODE_TOP_150_ANNOTATED.swift) 
+  - 13 problems - complete code
+  - Download → Open in Xcode
+  - Run test cases locally
 
 #### 📖 Core Materials  
 - [DSA Basics Complete](DSA_BASICS_COMPLETE.swift) - 150+ fundamental problems
 - [MAANG Companies Questions](MAANG_COMPANIES_QUESTIONS.swift) - 80+ real interview questions
 - [Advanced Patterns](ADVANCED_PATTERNS.swift) - Expert-level techniques
+
+> **💡 Tip:** Use web pages for reading, Swift files for running in Xcode!
 
 ### 📊 Study Resources
 - [Quick Reference Guide](QUICK_REFERENCE.md) - Patterns & complexity cheatsheet
