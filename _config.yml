@@ -1,0 +1,101 @@
+# GitHub Pages Configuration for DSA MAANG Prep
+
+# Theme
+theme: jekyll-theme-cayman
+# Alternative themes you can try:
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-architect
+
+# Site settings
+title: "DSA Prep - Crack MAANG Interviews"
+description: "Complete Data Structures & Algorithms preparation for Google, Amazon, Meta, Apple, Microsoft"
+author: "Your Name"
+
+# Enable syntax highlighting for code
+highlighter: rouge
+markdown: kramdown
+
+# Kramdown settings for better code rendering
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: swift
+    css_class: 'highlight'
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+# Relative links settings
+relative_links:
+  enabled: true
+  collections: true
+
+# Optional front matter
+optional_front_matter:
+  remove_originals: true
+
+# Titles from headings
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+# Include files
+include:
+  - README.md
+  - START_HERE.md
+  - WHATS_NEW.md
+  - ANNOTATION_GUIDE.md
+  - QUICK_REFERENCE.md
+  - STUDY_TRACKER.md
+  - PROJECT_SUMMARY.md
+  - HOW_TO_DEPLOY.md
+  - "*.swift"
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Collections (optional, for better organization)
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "default"
+
+# GitHub repository
+repository: YOUR-USERNAME/dsa-maang-prep
+github_username: YOUR-USERNAME
+
+# Google Analytics (optional - add your tracking ID)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Show downloads button
+show_downloads: false
+
+# Logo (optional)
+# logo: /assets/images/logo.png
+
+# Favicon (optional)
+# favicon: /assets/images/favicon.ico
+
