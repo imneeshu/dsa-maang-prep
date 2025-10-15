@@ -90,17 +90,40 @@ Focus: Hash Maps, BFS/DFS, Strings
 
 ## 📱 How to Use This Site
 
+### Viewing Code (All Devices):
+1. **Click any `.swift` file** → See beautifully formatted code
+2. **Syntax highlighting** → Easy to read and study
+3. **Copy with one click** → Use anywhere
+4. **Mobile friendly** → Perfect for on-the-go learning
+
+### Running Code:
+⚠️ **Swift files won't run in browser** (Swift needs a compiler)
+
+**But you can easily run them:**
+- 🌐 **SwiftFiddle.com** - Copy & paste code, run in browser (FREE!)
+- 💻 **Xcode** - Full IDE on Mac
+- 📱 **Swift Playgrounds** - iPad/Mac app (FREE)
+- 🌐 **Replit.com** - Online IDE (FREE)
+
+👉 See [RUN_SWIFT_ONLINE.md](RUN_SWIFT_ONLINE.md) for step-by-step guide!
+
+### Best Workflow:
+```
+📖 Read on website → 📋 Copy code → ▶️ Run in SwiftFiddle/Xcode → ✅ Test
+```
+
 ### On Desktop:
 1. Bookmark this page
 2. Click any file to view code with syntax highlighting
-3. Copy code to Xcode/Swift Playground to run
+3. Copy code to SwiftFiddle or Xcode to run
 4. Track progress in Study Tracker
 
 ### On Mobile/Tablet:
 1. Save to home screen for quick access
 2. View code on the go
 3. Read problem descriptions anywhere
-4. Perfect for commute study sessions
+4. Copy to Swift Playgrounds app to run
+5. Perfect for commute study sessions
 
 ---
 

@@ -56,7 +56,7 @@ git commit -m "Initial commit - DSA MAANG prep materials"
 
 # Connect and push (replace YOUR-USERNAME):
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/dsa-maang-prep.git
+git remote add origin https://github.com/imneeshu/dsa-maang-prep.git
 git push -u origin main
 ```
 

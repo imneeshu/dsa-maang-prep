@@ -50,6 +50,17 @@ You now have a **complete, professional-grade DSA preparation system** with:
 - ✅ Detailed explanations
 - ✅ Time & space complexity
 - ✅ Company frequency ratings
+- ✅ **RUN ONLINE** links - Test code in browser! 🌐
+
+### 🌐 Running Swift Code
+**On GitHub Pages:** Beautiful syntax-highlighted viewing  
+**To Execute Code:** Use these options:
+- 🟢 **SwiftFiddle.com** - Run in browser (no setup!)
+- 💻 **Xcode** - Full IDE on Mac
+- 📱 **Swift Playgrounds** - iPad/Mac app
+- 🌐 **Replit.com** - Online IDE
+
+👉 See **RUN_SWIFT_ONLINE.md** for complete guide!
 
 ---
 
