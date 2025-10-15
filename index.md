@@ -20,24 +20,33 @@ title: DSA Preparation for MAANG Companies
 
 #### ⭐ Recommended Starting Point
 
-**📱 Web Version (Read in Browser - Won't Download!):**
-- [**LeetCode Top 150 - Web Version**](problems/leetcode-top-150) 
-  - ✅ Displays perfectly in browser
-  - ✅ Mobile-friendly, easy copy-paste
-  - ✅ 3 problems fully formatted
+**📱 Web Versions (Perfect for Reading - Never Download!):**
+- [**DSA Basics - Web Version**](web-versions/dsa-basics) ⭐  
+  - ✅ 150+ problems with solutions
+  - ✅ Mobile-friendly, displays perfectly
+  - ✅ Arrays, Trees, Graphs, DP, and more
+  
+- [**MAANG Questions - Web Version**](web-versions/maang-questions) 🏢
+  - ✅ Google, Amazon, Meta, Microsoft, Apple
+  - ✅ Real interview questions
+  - ✅ Company frequency ratings
+  
+- [**Advanced Patterns - Web Version**](web-versions/advanced-patterns) 🚀
+  - ✅ Segment Trees, Trie, Union Find
+  - ✅ Expert-level algorithms
+  - ✅ For senior roles (L4+)
+  
+- [**LeetCode Top 150 - Web Version**](problems/leetcode-top-150)
+  - ✅ Fully annotated problems
+  - ✅ Multiple approaches explained
 
 **📥 Swift Files (Download & Run in Xcode):**
-- [LeetCode Top 150 - Swift File](LEETCODE_TOP_150_ANNOTATED.swift) 
-  - 13 problems - complete code
-  - Download → Open in Xcode
-  - Run test cases locally
+- [DSA Basics Complete - Swift File](DSA_BASICS_COMPLETE.swift) - 1,894 lines
+- [MAANG Questions - Swift File](MAANG_COMPANIES_QUESTIONS.swift) - 1,424 lines
+- [Advanced Patterns - Swift File](ADVANCED_PATTERNS.swift) - 1,133 lines
+- [LeetCode Top 150 - Swift File](LEETCODE_TOP_150_ANNOTATED.swift) - 912 lines
 
-#### 📖 Core Materials  
-- [DSA Basics Complete](DSA_BASICS_COMPLETE.swift) - 150+ fundamental problems
-- [MAANG Companies Questions](MAANG_COMPANIES_QUESTIONS.swift) - 80+ real interview questions
-- [Advanced Patterns](ADVANCED_PATTERNS.swift) - Expert-level techniques
-
-> **💡 Tip:** Use web pages for reading, Swift files for running in Xcode!
+> **💡 Best Practice:** Study on web pages (phone/tablet/laptop), download Swift files to run in Xcode!
 
 ### 📊 Study Resources
 - [Quick Reference Guide](QUICK_REFERENCE.md) - Patterns & complexity cheatsheet

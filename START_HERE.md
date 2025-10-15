@@ -35,12 +35,23 @@ You now have a **complete, professional-grade DSA preparation system** with:
 
 ### 💻 Your Code Files
 
-| File | Problems | Level | Focus |
-|------|----------|-------|-------|
-| **LEETCODE_TOP_150_ANNOTATED.swift** | 12+ | ⭐ START HERE | Fully annotated with LeetCode #s |
-| **DSA_BASICS_COMPLETE.swift** | 150+ | Foundation | All core topics |
-| **MAANG_COMPANIES_QUESTIONS.swift** | 80+ | Interview | Company-specific |
-| **ADVANCED_PATTERNS.swift** | 50+ | Expert | Advanced techniques |
+**📱 WEB VERSIONS (Read in Browser - Perfect for Mobile!):**
+
+| Web Page | Problems | Level | URL After Deploy |
+|----------|----------|-------|------------------|
+| **DSA Basics** | 150+ | ⭐ Foundation | /web-versions/dsa-basics |
+| **MAANG Questions** | 58+ | 🏢 Interview | /web-versions/maang-questions |
+| **Advanced Patterns** | 50+ | 🚀 Expert | /web-versions/advanced-patterns |
+| **LeetCode Top 150** | 13 | ⭐ START HERE | /problems/leetcode-top-150 |
+
+**📥 SWIFT FILES (Download to Run in Xcode):**
+
+| Swift File | Lines | Purpose |
+|------------|-------|---------|
+| **DSA_BASICS_COMPLETE.swift** | 1,894 | All fundamentals |
+| **MAANG_COMPANIES_QUESTIONS.swift** | 1,424 | Company questions |
+| **ADVANCED_PATTERNS.swift** | 1,133 | Expert algorithms |
+| **LEETCODE_TOP_150_ANNOTATED.swift** | 912 | Annotated problems |
 
 ### 🎯 NEW! Fully Annotated Problems
 **LEETCODE_TOP_150_ANNOTATED.swift** includes:
